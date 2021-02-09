@@ -158,6 +158,9 @@ footer {
   .navbar-brand{
     width: 70%;
   }
+  footer{
+    height: 16vh;
+  }
 }
 @media all and (max-width: 300px) {
   .bg {
@@ -177,6 +180,6 @@ footer {
     width: 70%;
   }
   footer{
-    height: 15vh;
+    height: 16vh;
   }
 }
